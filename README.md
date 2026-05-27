@@ -12,11 +12,6 @@ A premium, luxury-styled single-page landing page dedicated to showcasing the ri
 ## 🛠️ Tech Stack
 - **HTML5:** Semantic markup structure.
 - **CSS3:** Custom layout styling, glassmorphism card effects, flexbox/grid systems, and animations.
-- **JavaScript (Vanilla):** Dynamic data injection and modal state management for a seamless single-page experience.
-
-## 🚀 Live Demo
-*(Optional: If you deployed it on GitHub Pages, add the link here)*
-👉 [View Live Project](YOUR-GITHUB-PAGES-LINK-HERE)
 
 ## 📁 Project Structure
 ```text
